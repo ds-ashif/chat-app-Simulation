@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ds-ashif/chat-app-Simulation/static/css/main.48ab2f93.css",
+    "main.js": "/ds-ashif/chat-app-Simulation/static/js/main.84aab63d.js",
+    "static/js/488.a8b2902f.chunk.js": "/ds-ashif/chat-app-Simulation/static/js/488.a8b2902f.chunk.js",
+    "index.html": "/ds-ashif/chat-app-Simulation/index.html",
+    "main.48ab2f93.css.map": "/ds-ashif/chat-app-Simulation/static/css/main.48ab2f93.css.map",
+    "main.84aab63d.js.map": "/ds-ashif/chat-app-Simulation/static/js/main.84aab63d.js.map",
+    "488.a8b2902f.chunk.js.map": "/ds-ashif/chat-app-Simulation/static/js/488.a8b2902f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48ab2f93.css",
+    "static/js/main.84aab63d.js"
+  ]
+}
