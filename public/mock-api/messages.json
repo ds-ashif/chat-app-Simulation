@@ -1,0 +1,5 @@
+[
+    {"id": 1, "userId": 1, "text": "Hello there!", "timestamp": "2025-04-18T10:30:00Z"},
+    {"id": 2, "userId": 2, "text": "Hi! How are you?", "timestamp": "2025-04-18T10:32:00Z"},
+    {"id": 3, "userId": 1, "text": "I'm good, thanks!", "timestamp": "2025-04-18T10:33:00Z"}
+  ]
